@@ -11,6 +11,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace SimulationVéhicule
 {
+    //test
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
