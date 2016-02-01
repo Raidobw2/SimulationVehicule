@@ -24,6 +24,7 @@ namespace SimulationVéhicule
         protected override void Initialize()
         {
             base.Initialize();
+            //Commentaire Élie
         }
         protected override void LoadContent()
         {
