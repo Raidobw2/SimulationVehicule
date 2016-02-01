@@ -11,6 +11,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace SimulationVéhicule
 {
+    //test
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         //TEST DE CONTROLE GITHUB
@@ -25,6 +26,7 @@ namespace SimulationVéhicule
         protected override void Initialize()
         {
             base.Initialize();
+            //Commentaire Élie
         }
         protected override void LoadContent()
         {
